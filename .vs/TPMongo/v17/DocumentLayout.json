@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\models\\producto.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proyecto-crud-mongodb\\src\\models\\producto.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\models\\categoria.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proyecto-crud-mongodb\\src\\models\\categoria.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\app.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proyecto-crud-mongodb\\app.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\db\\conexion.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proyecto-crud-mongodb\\src\\db\\conexion.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\db\\app.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proyecto-crud-mongodb\\src\\db\\app.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proyecto-crud-mongodb\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\package.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proyecto-crud-mongodb\\package.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\package-lock.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proyecto-crud-mongodb\\package-lock.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\utils\\jwt.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proyecto-crud-mongodb\\src\\utils\\jwt.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\utils\\encriptador.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proyecto-crud-mongodb\\src\\utils\\encriptador.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\routes\\categoriaRoutes.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proyecto-crud-mongodb\\src\\routes\\categoriaRoutes.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\routes\\usuarioRoutes.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proyecto-crud-mongodb\\src\\routes\\usuarioRoutes.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\routes\\productoRoutes.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proyecto-crud-mongodb\\src\\routes\\productoRoutes.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\controllers\\categoriaController.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proyecto-crud-mongodb\\src\\controllers\\categoriaController.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\controllers\\usuarioController.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proyecto-crud-mongodb\\src\\controllers\\usuarioController.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\controllers\\productosController.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proyecto-crud-mongodb\\src\\controllers\\productosController.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\models\\usuario.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proyecto-crud-mongodb\\src\\models\\usuario.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\package-lock.json",
+              "RelativeDocumentMoniker": "proyecto-crud-mongodb\\package-lock.json",
+              "ToolTip": "D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\package-lock.json",
+              "RelativeToolTip": "proyecto-crud-mongodb\\package-lock.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-13T22:23:27.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "package.json",
+              "DocumentMoniker": "D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\package.json",
+              "RelativeDocumentMoniker": "proyecto-crud-mongodb\\package.json",
+              "ToolTip": "D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\package.json",
+              "RelativeToolTip": "proyecto-crud-mongodb\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-13T22:23:13.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.js",
+              "DocumentMoniker": "D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\db\\app.js",
+              "RelativeDocumentMoniker": "proyecto-crud-mongodb\\src\\db\\app.js",
+              "ToolTip": "D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\db\\app.js",
+              "RelativeToolTip": "proyecto-crud-mongodb\\src\\db\\app.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-13T22:12:11.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "conexion.js",
+              "DocumentMoniker": "D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\db\\conexion.js",
+              "RelativeDocumentMoniker": "proyecto-crud-mongodb\\src\\db\\conexion.js",
+              "ToolTip": "D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\db\\conexion.js",
+              "RelativeToolTip": "proyecto-crud-mongodb\\src\\db\\conexion.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-13T22:11:58.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "jwt.js",
+              "DocumentMoniker": "D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\utils\\jwt.js",
+              "RelativeDocumentMoniker": "proyecto-crud-mongodb\\src\\utils\\jwt.js",
+              "ToolTip": "D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\utils\\jwt.js",
+              "RelativeToolTip": "proyecto-crud-mongodb\\src\\utils\\jwt.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-13T22:10:57.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "encriptador.js",
+              "DocumentMoniker": "D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\utils\\encriptador.js",
+              "RelativeDocumentMoniker": "proyecto-crud-mongodb\\src\\utils\\encriptador.js",
+              "ToolTip": "D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\utils\\encriptador.js",
+              "RelativeToolTip": "proyecto-crud-mongodb\\src\\utils\\encriptador.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-13T22:10:40.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "categoriaRoutes.js",
+              "DocumentMoniker": "D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\routes\\categoriaRoutes.js",
+              "RelativeDocumentMoniker": "proyecto-crud-mongodb\\src\\routes\\categoriaRoutes.js",
+              "ToolTip": "D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\routes\\categoriaRoutes.js",
+              "RelativeToolTip": "proyecto-crud-mongodb\\src\\routes\\categoriaRoutes.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-13T22:09:24.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "usuarioRoutes.js",
+              "DocumentMoniker": "D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\routes\\usuarioRoutes.js",
+              "RelativeDocumentMoniker": "proyecto-crud-mongodb\\src\\routes\\usuarioRoutes.js",
+              "ToolTip": "D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\routes\\usuarioRoutes.js",
+              "RelativeToolTip": "proyecto-crud-mongodb\\src\\routes\\usuarioRoutes.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-13T22:09:11.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "productoRoutes.js",
+              "DocumentMoniker": "D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\routes\\productoRoutes.js",
+              "RelativeDocumentMoniker": "proyecto-crud-mongodb\\src\\routes\\productoRoutes.js",
+              "ToolTip": "D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\routes\\productoRoutes.js",
+              "RelativeToolTip": "proyecto-crud-mongodb\\src\\routes\\productoRoutes.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-13T22:08:53.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.js",
+              "DocumentMoniker": "D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\app.js",
+              "RelativeDocumentMoniker": "proyecto-crud-mongodb\\app.js",
+              "ToolTip": "D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\app.js",
+              "RelativeToolTip": "proyecto-crud-mongodb\\app.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-13T22:01:06.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": ".env",
+              "DocumentMoniker": "D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\.env",
+              "RelativeDocumentMoniker": "proyecto-crud-mongodb\\.env",
+              "ToolTip": "D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\.env",
+              "RelativeToolTip": "proyecto-crud-mongodb\\.env",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJQSURBVDhPnVLLbhNBEKyZffjtJEqcRBEoMeBLOCA4I7gjbkh8Bt8RceJvOOWOIAEJ\u002BWQRBUEU/ML2bmzvrrO7Q/WEBIK4QI9GPbNdU1tdM\u002BokCM15nkFCyVC/8vVvspGdpIu8UalAHY1GZjibI8gynDDP0gye1ni00YBDoNaKWeNgMhEKW7tTq2GzWEBuDNSn7yMzmM2wd/geD9c2UXI9OI5Ga30FW\u002BWyJTkIJnjxsY01z8cm681yEXsP7ltZGjDIyHQ6n\u002BP152NEiwTxYoF3/ZH9g9RedjpITIaErY4nAVJXs5bDsKY5kecGhtLavS4G0zPM4xiLKMIizzEhYXswRMw1gRhEc6w4riWW0DzKDdkoO8hS7JPkjKCMit70\u002Bnh18AEqipHycGF8hpB4Vwjkp1YBWURqTgXG83A0HqFLT0ISdHpD7B8KQYSl8xRTGrlTKiFkO/aMVUAGy0aC3Pf4SSEuFRCwlWg4RDGcwplF2FYO4jSF67qImEU1xVyYKGxCYDyXThfwuLmDLtuYkGR1ZRkuTX2\u002BfRP6PENa9BHzyq1vHLxmhaLnQJO54fhI6LJLsnu3mxiGARr1Kp7c3UWJfVeJHfCwGChTPHBL7PtGvU5pDhr9MXo0LCHo2e4unrZaFlT2fbz91kW8uoR\u002BEqOinQvV4gGnja1cITr\u002BYl/arVoVy4UC1qoVbPDV\u002BQ4PZDmmsynKp32sE1NnXdSrr0FgEpoi79teC4v2vQurAP6yFqyEEFwpkLgs/EtcI/ifUKchnwWlX8afKn7fXa1/YhSAH6AWPgGAWPyoAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-05-13T22:02:00.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "categoria.js",
+              "DocumentMoniker": "D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\models\\categoria.js",
+              "RelativeDocumentMoniker": "proyecto-crud-mongodb\\src\\models\\categoria.js",
+              "ToolTip": "D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\models\\categoria.js",
+              "RelativeToolTip": "proyecto-crud-mongodb\\src\\models\\categoria.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-13T22:07:22.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "producto.js",
+              "DocumentMoniker": "D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\models\\producto.js",
+              "RelativeDocumentMoniker": "proyecto-crud-mongodb\\src\\models\\producto.js",
+              "ToolTip": "D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\models\\producto.js",
+              "RelativeToolTip": "proyecto-crud-mongodb\\src\\models\\producto.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-13T22:06:50.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "categoriaController.js",
+              "DocumentMoniker": "D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\controllers\\categoriaController.js",
+              "RelativeDocumentMoniker": "proyecto-crud-mongodb\\src\\controllers\\categoriaController.js",
+              "ToolTip": "D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\controllers\\categoriaController.js",
+              "RelativeToolTip": "proyecto-crud-mongodb\\src\\controllers\\categoriaController.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-13T22:08:24.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "usuarioController.js",
+              "DocumentMoniker": "D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\controllers\\usuarioController.js",
+              "RelativeDocumentMoniker": "proyecto-crud-mongodb\\src\\controllers\\usuarioController.js",
+              "ToolTip": "D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\controllers\\usuarioController.js",
+              "RelativeToolTip": "proyecto-crud-mongodb\\src\\controllers\\usuarioController.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-13T22:08:08.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "productosController.js",
+              "DocumentMoniker": "D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\controllers\\productosController.js",
+              "RelativeDocumentMoniker": "proyecto-crud-mongodb\\src\\controllers\\productosController.js",
+              "ToolTip": "D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\controllers\\productosController.js",
+              "RelativeToolTip": "proyecto-crud-mongodb\\src\\controllers\\productosController.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-13T22:07:47.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "usuario.js",
+              "DocumentMoniker": "D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\models\\usuario.js",
+              "RelativeDocumentMoniker": "proyecto-crud-mongodb\\src\\models\\usuario.js",
+              "ToolTip": "D:\\Cursos_Estudio\\CursoUTN\\TPMongo\\proyecto-crud-mongodb\\src\\models\\usuario.js",
+              "RelativeToolTip": "proyecto-crud-mongodb\\src\\models\\usuario.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-13T22:07:09.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

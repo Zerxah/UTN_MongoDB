@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\proyecto-crud-mongodb",
+    "\\proyecto-crud-mongodb\\src",
+    "\\proyecto-crud-mongodb\\src\\controllers",
+    "\\proyecto-crud-mongodb\\src\\db",
+    "\\proyecto-crud-mongodb\\src\\models",
+    "\\proyecto-crud-mongodb\\src\\routes",
+    "\\proyecto-crud-mongodb\\src\\utils"
+  ],
+  "SelectedNode": "\\proyecto-crud-mongodb\\src\\models\\producto.js",
+  "PreviewInSolutionExplorer": false
+}
